@@ -1,6 +1,6 @@
 <br>
 
-<h2 align="center"> Status do Projeto - PharmaDigital</h2>
+<h2 align="center"> Status do Projeto - PharmaDigital - Gestão de Medicamentos das Farmácias UBS/DF</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FINALIZADO-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="status do projeto">
@@ -10,7 +10,7 @@
 <P> Trabalho de Conclusão de Curso da Escola Tecnica de Ceilândia - Data de conclusão: Julho 2023.
 </P>
 <br>
-#  Pharma Digital – Gestão de Medicamentos das Farmácias UBS/DF
+##  Pharma Digital – Gestão de Medicamentos das Farmácias UBS/DF
 
 O **Pharma Digital** é um sistema desenvolvido para facilitar o gerenciamento da distribuição de medicamentos nas **Farmácias das Unidades Básicas de Saúde (UBS)** do Distrito Federal, com controle de estoque em tempo real.
 
