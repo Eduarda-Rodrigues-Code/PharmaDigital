@@ -6,9 +6,8 @@
   <img src="https://img.shields.io/badge/FINALIZADO-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="status do projeto">
 </p>
 <br>
-![concluído](https://img.shields.io/badge/concluído-julho%2F2023-blue)
 
-<P> Apenas a parte do front-end está concluída. A integração com o back-end e funcionalidades avançadas serão implementadas futuramente.
+<P> Trabalho de Conclusão de Curso da Escola Tecnica de Ceilândia - Data de conclusão: Julho 2023.
 </P>
 <br>
 #  Pharma Digital – Gestão de Medicamentos das Farmácias UBS/DF
