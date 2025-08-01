@@ -95,7 +95,8 @@ Para o levantamento das necessidades, foram realizadas **análises qualitativas*
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f411bc6-596d-450d-a17e-9b4a0d33b4f6" />
 
 ## Banco de Dados
-![db pharmadigital](https://github.com/user-attachments/assets/15609375-5491-4489-9bda-46c30d8cc806)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/926f1336-0c75-4ce4-abcc-fd30167bacb0" />
+
 
 
 ---
@@ -103,7 +104,7 @@ Para o levantamento das necessidades, foram realizadas **análises qualitativas*
 
 ##  Autoria
 
-Desenvolvido por [Eduarda Rodrigues Oliveira](https://github.com/Dudinha-nnja)  
+Front-end e Banco de dados desenvolvido por Eduarda Rodrigues Oliveira   
 Projeto de TCC – Curso Técnico em Informática  
 **Escola Técnica de Ceilândia**
 
